@@ -11,7 +11,7 @@ Given the FPS nature of part of the game many users are going to want to use the
 ### Flight - Cockpit
 
 | Action        | Binding                   | Possible location          |
-| ============= | ========================= | ========================== |
+| ------------- | ------------------------- | -------------------------- |
 | Eject         | Right `Alt` + `l`         | `Throttle Btn 1`           |
 | Exit Seat     | Left `Ctrl` + `f`         | `Throttle` somewhere       |
 | Self Destruct | Right `Alt` + `Backspace` | `shift` + `Throttle Btn 1` |
@@ -22,7 +22,7 @@ Given the FPS nature of part of the game many users are going to want to use the
 ### Fligt - View
 
 | Action                | Binding                  | Possible location          |
-| ===================== | ======================== | ========================== |
+| --------------------- | ------------------------ | -------------------------- |
 | Look Left             | none                     | `Stick POV Hat`            |
 | Look Right            | none                     | `Stick POV Hat`            |
 | Look Up               | none                     | `Stick POV Hat`            |
