@@ -19,7 +19,7 @@ Given the FPS nature of part of the game many users are going to want to use the
 
 > Notes: Eject and self destruct want to be difficult to hit - `Throttle Btn 1` seems ideal, although it may be too much of a pain in the heat of combat. The light doesn't strike me as requiring easy access.
 
-### Fligt - View
+### Flight - View
 
 | Action                | Binding                  | Possible location          |
 | --------------------- | ------------------------ | -------------------------- |
